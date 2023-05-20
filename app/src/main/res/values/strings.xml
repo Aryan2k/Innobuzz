@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Innobuzz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="accessibility_service_label">WhatsApp Service</string>
+    <string name="accessibility_service_description">Opening Whatsapp will display WhatsApp opened.</string>
+    <string name="fetching_posts">Fetching posts</string>
+    <string name="launch_service">Launch Service</string>
+    <string name="posts">Posts</string>
+    <string name="description">Description</string>
+</resources>
